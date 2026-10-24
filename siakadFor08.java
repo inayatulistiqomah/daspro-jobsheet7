@@ -25,5 +25,6 @@ public class siakadFor08 {
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Banyaknya mahasiswa lulus: " +lulus);
         System.out.println("Banyaknya mahasiswa tidak lulus: " +tidakLulus);
+        sc.close();
     }
 }
